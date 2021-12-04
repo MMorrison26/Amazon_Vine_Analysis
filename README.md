@@ -14,5 +14,5 @@ There were extremely few Vine reviews as compared to non-Vine reviews.
 
 
 ## *Summary*
-
+It's arguable there's a small positivity bias for Vine reviewers, but it might be helpful to analyze some of the other available Amazon datasets to see if there are more Vine reviews present. If we had more data, it would give more clout to the percentage of Vine reviews that were a perfect 5 stars. In addition, it might be helpful to calculate the average rating overall between the 2 datasets to see how that compares. It may be that paid reviewers feel ever more obligated to give very honest (and potentially poor) reviews when they're getting paid. It would be interesting to see the number of 2 and 3 star reviews as compared to the non-paid reviews.
 

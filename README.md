@@ -5,7 +5,7 @@ We've been tasked to research the effect of paid Amazon Vine members who publish
 
 ## *Results*
 There were extremely few Vine reviews as compared to non-Vine reviews. 
-* When filtered to rows that had at least 20 votes, there were only 22 reviews out of 27,884 reviews that were by paid Vine members. That's a mere 8% of the overall total votes. See 
+* When filtered to rows that had at least 20 votes, there were only 22 reviews out of 27,884 reviews that were by paid Vine members. That's a mere 8% of the overall total votes. 
 ![image](https://user-images.githubusercontent.com/87578449/144717487-b180d11e-9a4b-4aa1-bca7-ab0896537b3f.png) <br/>
 
 * Only 13 Vine reviews were 5 stars whereas 14,581 non-Vine reviews were 5 stars. 
